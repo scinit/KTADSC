@@ -1,0 +1,1 @@
+The data stored in HGS-runtime.zip are absolute runtime values. Each file contains results from 10 tasks, and the algorithm was executed 30 times for each task. As a result, each file holds 300 data entries, so every 30 entries within a file can be grouped together.
